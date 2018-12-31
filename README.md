@@ -50,7 +50,7 @@ Nessa tela ele pedi para selecionar a região, para definir o horário.
 
 <img src="cidade.png">
 
-Depois ele login e senha para poder logar no Ubuntu.
+Depois ele pedi para criar login e senha para poder logar no Ubuntu.
 
 <img src="nome.senha.png">
 
