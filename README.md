@@ -58,7 +58,7 @@ Depois ele irá começar a instalação.
 
 <img src="instalacao4.png">
 
-Depois da conclusão da instalação, você entra com login e senha.
+Depois da conclusão da instalação, ele vai pedir entra com login e senha criados.
 
 <img src="telalogin.png">
 
