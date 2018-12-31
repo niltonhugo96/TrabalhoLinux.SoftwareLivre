@@ -12,6 +12,9 @@ Vai abrir essa página clique em uma das duas versões mais atualizadas (OBS: Le
 
 <img src="download.ubuntu2.png">
 
+Depois de baixado, pode colocar em um Pen Drive Bootável, em uma mídia física ou Virtual Box. 
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
