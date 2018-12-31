@@ -4,7 +4,7 @@
 
 Bom para fazermos a instalação do Ubuntu, temos que fazer o download da ISO.
 
-Primeiro entramos no site do Ubuntu - https://www.ubuntu.com/ e vamos clicar no meunu Download
+Primeiro entramos no site do Ubuntu - https://www.ubuntu.com/ e vamos clicar no menu Download
 
 <img src="download.ubuntu.png">
 
