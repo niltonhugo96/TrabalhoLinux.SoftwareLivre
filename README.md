@@ -42,6 +42,10 @@ Nessa tela, escolhemos o tipo de instalação, no próprio ubuntu ele explica to
 <img src="tipoi1.png">
 <img src="tipoi2.png">
 
+Ele vai perguntar se deseja criar manualmente as partições do Ubuntu ou deixar o Ubuntu fazer as partições, como e básica, deixo como está e clico em continuar.
+
+<img src="mudancas.png">
+
 
 
 
