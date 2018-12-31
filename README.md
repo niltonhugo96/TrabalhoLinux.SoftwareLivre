@@ -29,7 +29,7 @@ Depois de selecionado, clicamos em Instalar o Ubuntu.
 
 Na próxima tela, selecionamos o teclado a ser utilizado e clicamos em continuar.
 
-<img src="instalacao2.png""instalacao3.png">
+<img src="instalacao2.png,instalacao3.png">
 <img src="">
 
 Nessa tela, a instalação que aplicativos deseja utilizar, no meu caso, vou fazer a instalação normal e clicamos em continuar.
