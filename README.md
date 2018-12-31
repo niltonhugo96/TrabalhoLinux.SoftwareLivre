@@ -8,10 +8,11 @@ Primeiro entramos no site do Ubuntu - https://www.ubuntu.com/ e vamos clicar no 
 
 <img src="download.ubuntu.png">
 
-Vai abrir essa página clique em uma das duas versões mais atualizadas (OBS: Lembrando que são 64bits).
+Vai abrir essa página clique em uma das duas versões mais atualizadas. (OBS: Lembrando que são 64bits).
 
 <img src="download.ubuntu2.png">
 
-Depois de baixado, pode colocar em um Pen Drive Bootável, em uma mídia física ou utilizado em máquina virtual. 
+Depois de baixado, pode colocar em um Pen Drive Bootável, em uma mídia física ou utilizado em máquina virtual. (OBS: na internet você acha passo a passo de cada um deles).
+
 
                                          Vamos começar a instalação do Ubuntu
