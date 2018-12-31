@@ -8,6 +8,10 @@ Primeiro entramos no site do Ubuntu - https://www.ubuntu.com/ e vamos clicar no 
 
 <img src="download.ubuntu.png">
 
+Vai abrir essa página clique em uma das duas versões mais atualizadas (OBS: Lembrando que são 64bits).
+
+<img src="download.ubuntu2.png">
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
