@@ -27,7 +27,7 @@ Depois de selecionado, clicamos em Instalar o Ubuntu.
 
 <img src="instalar.png">
 
-Na próxima tela , clicamos em avançar.
+Na próxima tela, selecionamos o teclado a ser utilizado e clicamos em avançar.
 
 <img src="instalacao2.png">
 <img src="instalacao3.png">
