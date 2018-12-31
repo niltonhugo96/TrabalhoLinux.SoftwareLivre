@@ -6,7 +6,7 @@ Bom para fazermos a instalação do Ubuntu, temos que fazer o download da ISO.
 
 Primeiro entramos no site do Ubuntu - https://www.ubuntu.com/
 
-<img src="download.ubuntu.png"
+<img src="download.ubuntu.png">
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
