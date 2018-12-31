@@ -37,7 +37,7 @@ Nessa tela, a instalação que aplicativos deseja utilizar, no meu caso, vou faz
 <img src="atualizacao1.png">
 <img src="atualizacao2.png">
 
-Nessa tela, escolhemos o tipo de instalação, no próprio ubuntu ele explica todos os tipos de instalação, mais como a minha e básica, vou selecionar a primeira e clico continuar.
+Nessa tela, escolhemos o tipo de instalação, no próprio ubuntu ele explica todos os tipos de instalação, mais como a minha e básica, vou selecionar a primeira e clico em instalar agora.
 
 <img src="tipoi1.png">
 <img src="tipoi2.png">
