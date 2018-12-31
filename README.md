@@ -16,3 +16,15 @@ Depois de baixado, pode colocar em um Pen Drive Bootável, em uma mídia física
 
 
                                          Vamos começar a instalação do Ubuntu
+                                         
+Primeiro damos boot para instalar-mos o Ubuntu.
+
+Quando abrir , ele pedirá para selecionar a linguagem.
+
+<img src="idioma.png">
+
+Depois de selecionado, clicamos em Instalar o Ubuntu.
+
+<img src="instalar.png">
+
+
