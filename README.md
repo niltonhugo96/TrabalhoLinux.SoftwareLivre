@@ -46,6 +46,28 @@ Ele vai perguntar se deseja criar manualmente as partições do Ubuntu ou deixar
 
 <img src="mudancas.png">
 
+Nessa tela ele pedi para selecionar a região, para definir o horário.
+
+<img src="cidade.png">
+
+Depois ele login e senha para poder logar no Ubuntu.
+
+<img src="nome.senha.png">
+
+Depois ele irá começar a instalação.
+
+<img src="instalacao4.png">
+
+Depois da conclusão da instalação, você entra com login e senha.
+
+<img src="telalogin.png">
+
+E pronto, Ubuntu instalado.
+
+<img src="inicio.png">
+
+
+
 
 
 
