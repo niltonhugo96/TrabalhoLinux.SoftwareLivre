@@ -39,8 +39,8 @@ Nessa tela, a instalação que aplicativos deseja utilizar, no meu caso, vou faz
 
 Nessa tela, escolhemos o tipo de instalação, no próprio ubuntu ele explica todos os tipos de instalação, mais como a minha e básica, vou selecionar a primeira e clico continuar.
 
-<img src="tipot1.png">
-<img src="tipot2.png">
+<img src="tipoi1.png">
+<img src="tipoi2.png">
 
 
 
