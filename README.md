@@ -62,9 +62,12 @@ Depois da conclusão da instalação, você entra com login e senha.
 
 <img src="telalogin.png">
 
-E pronto, Ubuntu instalado.
+Ubuntu instalado e pronto para ser utilizado. 
 
 <img src="inicio.png">
+
+
+Obrigado pela vizualização.
 
 
 
